@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo]
 <h1 align="center">Hi 👋, I'm Khushal Mishra</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
