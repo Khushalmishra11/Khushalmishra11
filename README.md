@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khushalmishra11&label=Profile%20views&color=0e75b6&style=flat" alt="khushal-mishra" /> </p>
 
-- ⚡ Fun fact**I am funny😅**
+- ⚡ Fun fact **I am funny😅**
 
 <h3 align="left"><u>Connect with me:</u></h3>
 <p align="left">
