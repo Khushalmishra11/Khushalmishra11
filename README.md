@@ -1,4 +1,4 @@
-![logo](image/banner.png)
+![logo] (<img src="image/banner.png">)
 <h1 align="center">Hi 👋, I'm Khushal Mishra</h1>
 <h3 align="center">A passionate Web Developer, DevOps and problem solver enthusiast from India</h3>
 
