@@ -1,4 +1,4 @@
-![logo](image/Screenshot_22-7-2024_155226_.jpeg)
+![logo](image/banner.png)
 <h1 align="center">Hi 👋, I'm Khushal Mishra</h1>
 <h3 align="center">A passionate Web Developer, DevOps and problem solver enthusiast from India</h3>
 
