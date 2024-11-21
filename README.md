@@ -1,4 +1,4 @@
-<img height= "auto" src="image/banner.png">
+<img src="image/banner.png" height= "auto" widht="auto">
 <h1 align="center">Hi 👋, I'm Khushal Mishra</h1>
 <h3 align="center">A passionate Web Developer, DevOps and problem solver enthusiast from India</h3>
 
