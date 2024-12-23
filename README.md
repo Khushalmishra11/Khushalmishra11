@@ -11,6 +11,7 @@
 <h3 align="left"><u>Connect with me:</u></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/khushalmishra11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushal mishra" height="30" width="40" /></a>
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khushal_mishra_)
 <h3 align="left"><u>Resume:</u></h3>
 <p align="left">
 <a href="KM RESUME.pdf" target="blank"><img align="center" src="image/resume logo.png" alt="khushal mishra" height="30" width="40" /></a>
