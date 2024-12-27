@@ -2,15 +2,14 @@
 <h1 align="center">Hi 👋, I'm Khushal Mishra</h1>
 <h3 align="center">A passionate Web Developer, DevOps and problem solver enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khushalmishra11&label=Profile%20views&color=0e75b6&style=flat" alt="khushal-mishra" /> </p>
 
 - ⚡ Fun fact **I am funny😅**
 
-<h3 align="left"><u>Connect with me:</u></h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/khushalmishra11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushal mishra" height="30" width="40" /></a>
+<h3>Where to find me</h3>
+<p><a target="_blank" href="https://www.linkedin.com/in/khushalmishra11" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://twitter.com/khushal_mishra_" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
 <h3 align="left"><u>Resume:</u></h3>
 <p align="left">
 <a href="KM RESUME.pdf" target="blank"><img align="center" src="image/resume logo.png" alt="khushal mishra" height="30" width="40" /></a>
@@ -23,8 +22,10 @@
 <br>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/react-icons/react-icons/blob/ec03540a3e6feb18bd9c84a9c53a0b15a6a73deb/react-icons.svg" alt="reactJs" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushalmishra11&show_icons=true&locale=en&layout=compact" alt="khushalmishra11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushalmishra11&show_icons=true&locale=en" alt="khushalmishra11" /></p>
+<h3 align="left">Statistics:</h3>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushalmishra11&show_icons=true&locale=en&layout=compact" alt="khushalmishra11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalmishra11&" alt="khushalmishra11" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushalmishra11&show_icons=true&locale=en" alt="khushalmishra11" />
+
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalmishra11&" alt="khushalmishra11" /></p>
