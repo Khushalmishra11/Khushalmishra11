@@ -32,4 +32,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/khushalmishra11/khushalmishra11/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/khushalmishra11/khushalmishra11/blob/output/github-contribution-grid-snake2.svg)
