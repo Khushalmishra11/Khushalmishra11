@@ -29,3 +29,7 @@
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushalmishra11&show_icons=true&locale=en" alt="khushalmishra11" />
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalmishra11&" alt="khushalmishra11" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
