@@ -31,4 +31,6 @@
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalmishra11&theme=tokyonight" alt="khushalmishra11" /></p>
 
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/khushalmishra11/khushalmishra11/output/snake.svg" alt="Snake animation" />
