@@ -1,3 +1,4 @@
+<div class="background: black;">
 <img src="image/banner 2.png">
 <h1 align="center">Hi 👋, I'm Khushal Mishra</h1>
 <h3 align="center">A passionate Web Developer, DevOps and problem solver enthusiast from India</h3>
@@ -30,3 +31,4 @@
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalmishra11&theme=tokyonight" alt="khushalmishra11" /></p>
 
+</div>
