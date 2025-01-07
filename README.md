@@ -2,6 +2,7 @@
 <img src="image/banner 2.png">
 <h1 align="center">Hi 👋, I'm Khushal Mishra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khushalmishra11&label=Profile%20views&color=0e75b6&style=flat" alt="khushal-mishra" /> </p>
+<h3>About me</h3>
 🔭 **I’m currently working on:**  <br>Improving my skills in Development and Operation including cloud and AI.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>AWS Services, GraphQL and GenAI.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I am funnyt.
 >
 
