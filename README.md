@@ -27,10 +27,6 @@
 <h3 align="left">Statistics:</h3>
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushalmishra11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khushalmishra11" /></p>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushalmishra11&show_icons=true&locale=en&theme=tokyonight" alt="khushalmishra11" />
-
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushalmishra11&theme=tokyonight" alt="khushalmishra11" /></p>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/khushalmishra11/khushalmishra11/output/snake.svg" alt="Snake animation" />
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushalmishra11&show_icons=true&locale=en&theme=tokyonight" alt="khushalmishra11" /></p>
+<be>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=khushalmishra11&theme=tokyonight" alt="GitHub Streak" /></a>
