@@ -10,7 +10,9 @@
 
 <h3>Where to find me</h3>
 <p><a target="_blank" href="https://www.linkedin.com/in/khushalmishra11" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://twitter.com/khushal_mishra_" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
+<a target="_blank" href="https://x.com/khushal_mishra_" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://leetcode.com/khushal_mishra_" style="display: inline-block;"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" /></a>
+<a target="_blank" href="https://medium.com/@khushalmishra11" style="display: inline-block;"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a></p>
 <h3 align="left"><u>Resume:</u></h3>
 <p align="left">
 <a href="KM RESUME.pdf" target="blank"><img align="center" src="image/resume logo.png" alt="khushal mishra" height="30" width="40" /></a>
