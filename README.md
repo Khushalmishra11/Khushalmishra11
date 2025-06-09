@@ -1,5 +1,5 @@
 <div class="background: black;">
-<img src="image/banner3.png">
+<img src="image/Banner3.png">
 <h1 align="center">Hi 👋, I'm Khushal Mishra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khushalmishra11&label=Profile%20views&color=0e75b6&style=flat" alt="khushal-mishra" /> </p>
 <h3>About me</h3>
